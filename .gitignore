@@ -4,3 +4,6 @@ superlists/superlists/__pycache__/__init__.cpython-38.pyc
 superlists/superlists/__pycache__/settings.cpython-38.pyc
 superlists/superlists/__pycache__/urls.cpython-38.pyc
 superlists/superlists/__pycache__/wsgi.cpython-38.pyc
+superlists/geckodriver.log
+superlists/lists/__pycache__/tests.cpython-38.pyc
+superlists/lists/__pycache__/views.cpython-38.pyc
